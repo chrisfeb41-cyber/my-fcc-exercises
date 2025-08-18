@@ -1,23 +1,32 @@
 body {
-    font-family: 'Nunito', sans-serif;
-    background-color: #FFF8F0;
-    color: #5D3A00;
-    margin: 0 20px;
-    line-height: 1.6;
+  font-family: "Nunito", sans-serif;
+  background-color: #fff8f0;
+  color: #5d3a00;
+  margin: 0 20px;
+  line-height: 1.6;
 }
 
 h1 {
-    font-family: 'Poppins', sans-serif;
-    color: #D97706;
-    text-align: center;
-    margin-top: 20px;
+  font-family: "Poppins", sans-serif;
+  color: #d97706;
+  text-align: center;
+  margin-top: 20px;
 }
 
 h2 {
-    font-family: 'Poppins', sans-serif;
-    color: #9A3412;
-    border-top: 2px solid #F59E0B;
-    padding-bottom: 5px;
-    margin-top: 30px;
-    
+  font-family: "Poppins", sans-serif;
+  color: #9a3412;
+  border-top: 2px solid #f59e0b;
+  padding-bottom: 5px;
+  margin-top: 30px;
+}
+
+footer {
+  text-align: center;
+  padding: 10px;
+  background: #65a30d;
+  color: white;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
 }
