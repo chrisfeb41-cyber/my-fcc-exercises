@@ -2,4 +2,22 @@ body {
     font-family: 'Nunito', sans-serif;
     background-color: #FFF8F0;
     color: #5D3A00;
+    margin: 0 20px;
+    line-height: 1.6;
+}
+
+h1 {
+    font-family: 'Poppins', sans-serif;
+    color: #D97706;
+    text-align: center;
+    margin-top: 20px;
+}
+
+h2 {
+    font-family: 'Poppins', sans-serif;
+    color: #9A3412;
+    border-top: 2px solid #F59E0B;
+    padding-bottom: 5px;
+    margin-top: 30px;
+    
 }
