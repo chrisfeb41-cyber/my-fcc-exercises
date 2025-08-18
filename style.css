@@ -32,3 +32,13 @@ footer {
   bottom: 0;
   width: 100%;
 }
+
+ul {
+    padding-left: 6px;
+    list-style-position: inside;
+}
+
+ol {
+    padding-left: 6px;
+    list-style-position: inside;
+}
