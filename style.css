@@ -57,6 +57,15 @@ ol {
   list-style-position: inside;
 }
 
+iframe {
+  width: 100%; 
+  max-width: 560px;
+  aspect-ratio: 16/9;
+  border: none; 
+  display: block;
+  margin: 1em auto;
+}
+
 footer {
   text-align: center;
   padding: 0px;
